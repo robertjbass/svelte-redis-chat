@@ -1,0 +1,6 @@
+workspace.code-workspace
+server/dist
+client/dist
+*/.env
+*/node_modules
+*/.vscode
